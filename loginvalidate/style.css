@@ -4,6 +4,8 @@ body{
     align-items: center;
     min-height: 100vh;
     background:url(jj.png.gif) ;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .container{
     width: 420px;
